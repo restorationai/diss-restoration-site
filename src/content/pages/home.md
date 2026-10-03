@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "DISS Restoration | Restoration Services in Youngstown, OH"
-h1: "24/7 Restoration Services in Youngstown"
-meta_description: "DISS Restoration provides 24/7 water, fire, mold, and storm damage restoration across Youngstown and surrounding areas. Licensed, insured, IICRC-certified. Call (724) 981-1441."
-primary_keyword: "restoration services youngstown"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Youngstown, OH | DISS Restoration"
+h1: "24/7 Water Damage Restoration in Youngstown, OH"
+meta_description: "DISS Restoration provides water damage restoration in Youngstown, OH, answering 24/7. IICRC certified. Call (724) 981-1441 now."
+primary_keyword: "water damage restoration youngstown"
+secondary_keywords: ["best restoration company in youngstown", "restoration company youngstown", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "dd3984351ed0677b"

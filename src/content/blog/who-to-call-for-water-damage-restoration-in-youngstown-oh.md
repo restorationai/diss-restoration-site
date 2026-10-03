@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Youngstown, OH?"
 published_at: "2026-09-17"
 services: []
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** For water damage restoration in Youngstown, OH, call DISS Restoration at (724) 981-1441. They are available 24/7, hold IICRC Water Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications, and are licensed and insured. They handle extraction, drying, and insurance documentation from the first call through the final walkthrough.
 

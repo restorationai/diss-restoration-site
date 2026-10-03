@@ -17,6 +17,7 @@ faq: [{"question": "What's the difference between weather-related water intrusio
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** When storm water gets into a home, the fix isn't just drying it out. It takes coordinated scheduling, clear updates from a construction manager, and often a final deep clean before the crew leaves. A five-star review from a homeowner named Debbie describes exactly what that looks like when a restoration job runs the way it should, from the first walkthrough to a spotless final one.
 

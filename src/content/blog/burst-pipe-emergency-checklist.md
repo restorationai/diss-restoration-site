@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve if I have never lo
 published_at: "2026-07-20"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "TJ Stoian"
 ---
 If a pipe just burst in your home, here is what to do right now: shut off the main water supply, cut power to any affected rooms at the breaker panel, and move valuables out of standing water. Then document everything with your phone camera before you touch anything else. The steps below walk through the full response in order, from the first 60 seconds through the days of drying that follow. Bookmark this page; you may need to refer back to it as the situation develops.
 

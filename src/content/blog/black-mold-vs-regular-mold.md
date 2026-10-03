@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself using a store-bought kit?",
 published_at: "2026-07-22"
 services: ["mold-remediation"]
 rendered: true
+author: "TJ Stoian"
 ---
 Most mold looks alarming the moment you spot it, a dark patch behind the toilet, a fuzzy bloom on drywall after a slow leak, a greenish smear along a basement wall. The instinct is to wonder whether you're looking at the dreaded "black mold" you've heard about. Here's the short answer: color alone cannot tell you what species of mold you have. What looks jet-black might be a common, low-risk variety, and what looks olive-green or gray might be something more concerning. Identifying mold accurately requires lab testing. What you *can* do is understand what the differences mean, what signs should raise your concern level, and when to stop guessing and call someone.
 

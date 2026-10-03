@@ -17,6 +17,7 @@ faq: [{"question": "Does insurance pay for a remodel after water or fire damage?
 published_at: "2026-10-01"
 services: []
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** A remodel after restoration damage means rebuilding the affected space, not just drying or cleaning it, and it typically covers new drywall, flooring, cabinetry, paint, and sometimes a layout change. Insurance usually covers restoring the space to its pre-loss condition; anything beyond that (upgraded finishes, a reconfigured kitchen) is an out-of-pocket or allowance decision you make with your contractor before demo starts.
 

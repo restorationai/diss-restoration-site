@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during fire damage restoration?", "ans
 published_at: "2026-07-29"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "TJ Stoian"
 ---
 A house fire leaves behind more than charred walls. Even after the flames are out and the fire department clears the scene, the damage is still actively spreading, smoke residue is acidic and continues to etch metal, glass, and electronics for days; soot settles into HVAC ductwork and re-circulates through the home; and water from suppression efforts soaks into subfloors and wall cavities. Understanding what happens during professional fire damage restoration helps you ask the right questions, make faster decisions, and avoid costly mistakes in the hours and days after a fire.
 

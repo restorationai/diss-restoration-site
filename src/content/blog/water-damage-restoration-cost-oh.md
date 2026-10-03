@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Ohio?", "answ
 published_at: "2026-08-26"
 services: []
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** In Ohio, water damage restoration typically costs $1,500 to $12,000 for most residential losses. A small clean-water leak in one room runs $1,500 to $3,500. A Category 3 sewage backup or a finished basement flood can push $8,000 to $15,000 or more. The biggest cost drivers are water category (clean vs. gray vs. black), square footage affected, and how long the water sat before extraction began.
 

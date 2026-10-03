@@ -16,6 +16,7 @@ faq: [{"question": "Do I have to use the restoration company my insurance compan
 published_at: "2026-07-27"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "TJ Stoian"
 ---
 The short answer: vet any restoration company the same way you'd vet a surgeon, before the emergency, not during it. Check for verifiable credentials, ask pointed questions about their process, and never sign a direction-of-benefit form under pressure at the door. The sections below walk through exactly how to do that, with specific questions to ask and red flags to watch for, whether you're dealing with standing water in a basement, smoke residue on every surface, or a musty smell that won't quit.
 

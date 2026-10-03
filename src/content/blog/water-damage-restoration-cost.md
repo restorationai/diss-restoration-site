@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost?", "answer": "Wa
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** Water damage restoration typically costs $1,500 to $15,000 for most residential jobs, with the average falling between $3,000 and $7,500. The biggest cost drivers are the water category (clean vs. gray vs. sewage), how many square feet are affected, and how long the water sat before extraction started. Basement floods and sewage backups land at the higher end. A burst supply line caught within hours lands at the lower end. Every job is different, and a written scope from a certified firm protects you before any work begins.
 

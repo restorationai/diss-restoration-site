@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover a flooded basement after hea
 published_at: "2026-07-18"
 services: ["water-damage-restoration"]
 rendered: true
+author: "TJ Stoian"
 ---
 The short answer: homeowners insurance *sometimes* covers water damage, but the reason the water appeared matters more than how much damage it caused. A burst pipe that floods your basement overnight is usually covered. Rainwater that seeped through a foundation crack over three years usually is not. Understanding where your policy draws that line can save you thousands of dollars in out-of-pocket costs and prevent a claim denial that blindsides you when you're already dealing with soaked drywall and ruined flooring.
 

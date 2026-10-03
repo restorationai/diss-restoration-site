@@ -17,6 +17,7 @@ faq: [{"question": "How much does flooded basement cleanup cost?", "answer": "Fl
 published_at: "2026-08-31"
 services: ["water-damage-restoration", "sewage-cleanup"]
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** Flooded basement cleanup typically costs $1,500 to $10,000 depending on how much water entered, what caused it, and what materials got wet. Clean water from a burst supply line is the least dangerous and least expensive. Sewage backup is Category 3 contaminated water and requires professional extraction, disinfection, and disposal of porous materials. Most basements dry in 3 to 5 days with commercial equipment. If you have standing water right now, cut power to the basement at the breaker before you enter.
 

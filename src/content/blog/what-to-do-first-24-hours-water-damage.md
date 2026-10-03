@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before water damage causes mold?", "answe
 published_at: "2026-08-01"
 services: ["water-damage-restoration"]
 rendered: true
+author: "TJ Stoian"
 ---
 If water is actively coming in, stop reading and go shut off the main water supply valve first. It's usually near your water meter, in the basement, or in a utility closet. Once the flow stops, come back. The decisions you make in the next 24 hours will determine how much of your home is salvageable, how long the drying process takes, and what your insurance claim looks like. This guide walks through exactly what to do, in order, so you're not guessing while standing in wet socks.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-07-22"
 services: ["mold-remediation"]
 rendered: true
+author: "TJ Stoian"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. More often, it's growing behind drywall, under flooring, or inside an HVAC cabinet, places you'd never think to look until a smell or a health symptom forces the question. If something feels off in your home and you can't pin it down, these seven warning signs can help you figure out whether hidden mold is the reason. The sooner you identify it, the less damage, and the lower the remediation cost, you're dealing with.
 

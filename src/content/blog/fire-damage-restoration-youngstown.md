@@ -18,6 +18,7 @@ published_at: "2026-09-22"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** After a house fire in Youngstown, call your insurance company to open a claim, then call an IICRC-certified fire damage restoration company to secure the property and begin mitigation. Soot and smoke damage spread fast, every hour without containment increases the total loss. A certified crew handles emergency board-up, smoke and odor removal, structural drying, and full rebuild coordination, and documents everything your adjuster needs.
 

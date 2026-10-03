@@ -18,6 +18,7 @@ published_at: "2026-09-19"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "TJ Stoian"
 ---
 **TL;DR:** Water damage in Youngstown, OH requires fast action. Stop the water source, document everything with photos, then call a certified restoration company. An IICRC-certified crew will extract standing water, set up drying equipment, and work with your insurance adjuster. The faster you act, the lower the final bill and the lower the mold risk.
 

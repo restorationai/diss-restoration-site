@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "Fire Damage Restoration in Youngstown, OH: What to Do and Who to Call"
-h1: "Fire Damage Restoration in Youngstown, OH: What to Do and Who to Call"
+title: "What to Do After a House Fire in Youngstown, OH (and Who to Call)"
+h1: "What to Do After a House Fire in Youngstown, OH (and Who to Call)"
 meta_description: "Fire damage restoration in Youngstown, OH starts with securing the property and calling an IICRC-certified crew. Here's what the process looks like, what insurance covers, and what to do in the first 24 hours."
-primary_keyword: "fire damage restoration youngstown"
+primary_keyword: "what to do after a house fire in youngstown"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,16 +11,17 @@ hero: "/images/blog/2026/10/fire-damage-restoration-youngstown/hero.webp"
 og: "/images/blog/2026/10/fire-damage-restoration-youngstown/hero.webp"
 generated_at: "2026-09-22T00:59:33Z"
 manual_override: false
-internal_links: ["/services/fire-damage-restoration/", "/services/contents-restoration/", "/services/asbestos-abatement/", "/services/emergency-board-up-tarping/", "/blog/fire-damage-restoration-process/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Fire Damage Restoration in Youngstown, OH: What to Do and Who to Call"}]
+internal_links: ["/services/fire-damage-restoration/", "/services/contents-restoration/", "/services/asbestos-abatement/", "/services/emergency-board-up-tarping/", "/blog/fire-damage-restoration-process/", "/contact/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "What to Do After a House Fire in Youngstown, OH (and Who to Call)"}]
 faq: [{"question": "How soon after a fire should I call a restoration company in Youngstown?", "answer": "Call within the first 24 hours of fire department clearance. Soot is acidic and begins permanently etching metal, glass, and grout within hours of a fire. Early containment and cleaning limits the total scope of damage and the cost of the claim."}, {"question": "Can I clean smoke and soot damage myself?", "answer": "No. Wiping dry soot with a wet cloth smears it deeper into porous surfaces and makes professional cleaning harder. Smoke residue also requires specific chemistry matched to the smoke type, dry, wet, protein, or fuel. Improper cleaning can void portions of your insurance claim if it worsens the damage."}, {"question": "Does homeowners insurance cover fire damage restoration in Ohio?", "answer": "Yes. Standard HO-3 policies in Ohio cover fire as a named peril, including mitigation, structural repairs, and contents replacement, subject to your deductible and policy limits. Proper documentation from a certified restoration company is the key to a fully paid claim."}, {"question": "What is IICRC FSRT certification and why does it matter for fire damage?", "answer": "FSRT stands for Fire and Smoke Restoration Technician, a credential issued by the IICRC (iicrc.org). It means the technician has been trained specifically in smoke residue chemistry, odor neutralization methods, and the IICRC S700 standard for fire and smoke restoration, not just general cleaning or water damage work."}, {"question": "How long does fire damage restoration take in a typical Youngstown home?", "answer": "Mitigation, board-up, soot removal, smoke odor treatment, and structural drying, typically takes 1 to 2 weeks depending on the size of the affected area. Full reconstruction, if walls, ceilings, or flooring need to be rebuilt, adds additional weeks and depends on material availability and permit timelines."}, {"question": "What if my Youngstown home has asbestos in the fire-damaged area?", "answer": "Homes built before 1978 in Youngstown may contain asbestos in floor tiles, pipe insulation, or joint compound. Fire damage can disturb these materials. A restoration company certified for asbestos abatement can test, contain, and remove asbestos as part of the overall restoration scope, avoiding the need for a separate contractor and keeping the project on one timeline."}]
 published_at: "2026-09-22"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 ---
 **TL;DR:** After a house fire in Youngstown, call your insurance company to open a claim, then call an IICRC-certified fire damage restoration company to secure the property and begin mitigation. Soot and smoke damage spread fast, every hour without containment increases the total loss. A certified crew handles emergency board-up, smoke and odor removal, structural drying, and full rebuild coordination, and documents everything your adjuster needs.
 
-If the fire marshal just cleared you to re-enter your Youngstown home and you're standing in the doorway looking at charred walls and soot-coated ceilings, the next 24 hours matter more than most people realize. Smoke residue is acidic. It keeps etching metal fixtures, discoloring grout, and embedding into porous surfaces long after the flames are out. The faster a certified crew gets in to contain the damage and start controlled demolition, the more of your home, and your claim, is preserved.
+If the fire marshal just cleared you to re-enter your Youngstown home and you're standing in the doorway looking at charred walls and soot-coated ceilings, the next 24 hours matter more than most people realize. Smoke residue is acidic. It keeps etching metal fixtures, discoloring grout, and embedding into porous surfaces long after the flames are out. The faster a certified crew gets in to contain the damage and start controlled demolition, the more of your home, and your claim, is preserved. Full service details are on the [Youngstown fire damage restoration page](/services/fire-damage-restoration/).
 
 ## What Does Fire Damage Restoration Actually Cover?
 

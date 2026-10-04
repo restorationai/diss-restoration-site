@@ -34,12 +34,12 @@ export const brand = {
   email: "info@dissrestoration.com",
   hours: "24/7",
   foundedYear: "2021",
-  primaryCity: "Youngstown",
-  primaryState: "OH",
+  primaryCity: "Farrell",
+  primaryState: "PA",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
-  // They are usually the same and often diverge (DISS: Farrell PA office,
-  // Youngstown OH target) — only the address pair may go in a PostalAddress.
+  // They are usually the same and sometimes diverge (DISS was Farrell PA office,
+  // Youngstown OH target until 2026-10-04) — only the address pair may go in a PostalAddress.
   addressCity: "Farrell",
   addressState: "PA",
   streetAddress: "712 Spearman Avenue",
@@ -78,7 +78,7 @@ export const brand = {
     { author: "Natara", rating: 5, text: "Daniel and his crew were awesome! Very professional, thorough, and efficient. They were also incredibly friendly and were there to answer any questions I had. Highly recommended!", when: "June 2026" },
     { author: "Kyra", rating: 5, text: "Joey, Pat, and Josh. I now have these gentlemen on speed dial. We had a plumbing issue last summer that resulted in a water logged powder room and garage ceiling. DISS was sent via our insurance. When a similar issue happened again, I got in touch with the boys and a team was here inside of 2…", when: "May 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
-  tagline: "24/7 restoration services in Youngstown, OH.",
+  tagline: "24/7 restoration services in Farrell, PA.",
   ctaLabel: "24/7 Emergency Line",
   // Vertical trade-identity copy — resolved at scaffold time from
   // templates/{vertical}/vertical-tokens.json (see scripts/verticals.py).
@@ -89,7 +89,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "DISS Restoration serves Youngstown and the surrounding OH area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "DISS Restoration serves Farrell, PA and the surrounding Shenango and Mahoning Valley communities, including Youngstown, with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

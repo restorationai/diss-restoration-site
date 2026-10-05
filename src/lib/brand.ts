@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.7",
-  gbpReviewCount: "63",
+  gbpReviewCount: "69",
   gbpReviews: [
+    { author: "Jeffrey", rating: 5, text: "DISS was on site within 1 hour of calling them. Within 4 days they had the carpet ripped out of my flooded basement and had the basement completely dried and restored. They did a fantastic job. I highly recommend them.", when: "October 2026" },
+    { author: "James", rating: 5, text: "Alex was excellent! Overall, the food was its usual great taste! Everything was fresh! The orange juice was as advertised and tasted fresh squeezed! My four eggs were cooked sunny side up to perfection! The breakfast potatoes had a wonderful spice! Everyone at our table thoroughly enjoyed their…", when: "October 2026" },
+    { author: "Rob", rating: 5, text: "Unfortunately, I have had to contact DISS for service, which means I had a relative disaster that needed assistance. Fortunately, DISS is a fantastic company and goes the extra mile to ensure the job is done the right way. Can’t say enough about their services!", when: "October 2026" },
+    { author: "Trucrime", rating: 5, text: "DISS is a class act! They are knowledgeable, keep me informed, and are very, very kind and empathetic. So far, I would not change to another contractor. I had a different one in mind, but I quickly learned that they were not at all dependable. DISS is. I might add that my spirit was down, and my…", when: "October 2026" },
+    { author: "Scott", rating: 5, text: "DISS assisted me with my home insurance claim for storm damage, inventory, dry-out, mold remediation, and asbestos remediation so far. They still need to do the restoration work. So far, so good! They've been very helpful and have kept me informed of the progress along the way.", when: "October 2026" },
     { author: "Debbie", rating: 5, text: "This restoration company was able to take our weather related water intrusion job from start to finish within a very reasonable timeframe. The people we worked with communicated their next steps and asked questions when needed. The construction manager was always super quick to respond to my…", when: "September 2026" },
-    { author: "Fe", rating: 5, text: "Awesome company! They were here for pictures in less than an hour after initial call and here to do clean up in my basement within 5 hours.", when: "July 2026" },
-    { author: "Jeff", rating: 5, text: "We called DISS Restoration to remediate a flooded basement. They came out within an hour of getting called to assess the situation. Immediate action was then taken to remove the water, tear out carpets, dry the basement and treat the basement for any mold. They used a slew of people for all of…", when: "July 2026" },
-    { author: "Greg", rating: 5, text: "Arrived within 90 minutes from initial call. Went in to a basement with 6 to 8 inches of waste from a busted sewer line, smelled worse than septic tank in July. They coordinatedmwith plumbing company to clear path for repair, then they finished cleaning everything up, including disposal of…", when: "June 2026" },
-    { author: "Natara", rating: 5, text: "Daniel and his crew were awesome! Very professional, thorough, and efficient. They were also incredibly friendly and were there to answer any questions I had. Highly recommended!", when: "June 2026" },
-    { author: "Kyra", rating: 5, text: "Joey, Pat, and Josh. I now have these gentlemen on speed dial. We had a plumbing issue last summer that resulted in a water logged powder room and garage ceiling. DISS was sent via our insurance. When a similar issue happened again, I got in touch with the boys and a team was here inside of 2…", when: "May 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Farrell, PA.",
   ctaLabel: "24/7 Emergency Line",

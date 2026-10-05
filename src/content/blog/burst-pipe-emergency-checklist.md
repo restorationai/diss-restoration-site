@@ -68,7 +68,7 @@ Some instincts that feel helpful will make things worse.
 
 ## When to Call a Water Damage Professional
 
-Some burst pipe situations are manageable with a shop vac and a few fans. Many are not. Call a water damage restoration professional if any of the following are true:
+Some [burst pipe](/services/burst-pipe-repair/) situations are manageable with a shop vac and a few fans. Many are not. Call a water damage restoration professional if any of the following are true:
 
 - **The water reached drywall, insulation, or subfloor.** These materials hold moisture long after the surface appears dry and almost always require professional drying equipment, industrial air movers and dehumidifiers, to reach safe moisture levels.
 - **The affected area is larger than roughly 10 square feet.** This is a general threshold used in the industry; anything larger typically exceeds what consumer-grade equipment can handle in the time window that matters.

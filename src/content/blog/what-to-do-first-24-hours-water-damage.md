@@ -79,7 +79,7 @@ Call a restoration company if:
 - Your home was built before the 1980s (older Youngstown-area housing stock often has plaster walls, older insulation, and sometimes lead paint, materials that require different handling)
 - You're filing an insurance claim
 
-A professional restoration crew brings truck-mounted extraction equipment, industrial air movers, commercial dehumidifiers, and thermal imaging or moisture meters to find water you can't see. They also produce the drying logs that insurance carriers require to close a structural drying claim.
+A professional restoration crew brings [truck-mounted extraction equipment](/services/emergency-water-removal/), industrial air movers, commercial dehumidifiers, and thermal imaging or moisture meters to find water you can't see. They also produce the drying logs that insurance carriers require to close a structural drying claim.
 
 ## What Comes After the First 24 Hours
 

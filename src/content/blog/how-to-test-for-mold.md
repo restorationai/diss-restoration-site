@@ -52,7 +52,7 @@ A qualified inspector brings tools and context a kit can't replicate. The proces
 4. **Surface or tape-lift sampling**, for visible growth, a direct sample confirms the genus and gives the lab something to work with beyond air counts.
 5. **Written report**, a good inspector provides documentation that includes sample results, photographs, moisture readings, and a summary of findings. That report matters if you're dealing with insurance, a landlord, or a real estate transaction.
 
-DISS Restoration offers mold inspection and testing services, if you want an assessment before deciding whether remediation is needed, that's a reasonable place to start.
+DISS Restoration offers [mold inspection and testing services](/services/mold-inspection-testing/), if you want an assessment before deciding whether remediation is needed, that's a reasonable place to start.
 
 ## What NOT to Do Before or During Testing
 

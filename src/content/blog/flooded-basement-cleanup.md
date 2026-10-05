@@ -19,7 +19,7 @@ services: ["water-damage-restoration", "sewage-cleanup"]
 rendered: true
 author: "TJ Stoian"
 ---
-**TL;DR:** Flooded basement cleanup typically costs $1,500 to $10,000 depending on how much water entered, what caused it, and what materials got wet. Clean water from a burst supply line is the least dangerous and least expensive. Sewage backup is Category 3 contaminated water and requires professional extraction, disinfection, and disposal of porous materials. Most basements dry in 3 to 5 days with commercial equipment. If you have standing water right now, cut power to the basement at the breaker before you enter.
+**TL;DR:** [Flooded basement cleanup](/services/basement-flooding-cleanup/) typically costs $1,500 to $10,000 depending on how much water entered, what caused it, and what materials got wet. Clean water from a burst supply line is the least dangerous and least expensive. Sewage backup is Category 3 contaminated water and requires professional extraction, disinfection, and disposal of porous materials. Most basements dry in 3 to 5 days with commercial equipment. If you have standing water right now, cut power to the basement at the breaker before you enter.
 
 You came home to a wet carpet squishing underfoot, or you walked downstairs and found four inches of standing water. Maybe a sump pump failed during a summer storm, or a supply line finally gave out behind the water heater. Either way, the clock is already running: mold can begin colonizing wet drywall and wood within 24 to 48 hours. The first thing you need to know is what kind of water you're dealing with, because that determines everything else.
 

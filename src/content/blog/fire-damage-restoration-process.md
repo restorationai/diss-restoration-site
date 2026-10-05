@@ -47,10 +47,10 @@ If suppression water is present, it gets extracted before smoke remediation begi
 This is the most labor-intensive phase. Dry soot is vacuumed using HEPA equipment before any wet cleaning begins, wiping a dry-soot surface first smears and sets the residue deeper. Different surfaces require different cleaning agents: protein-based soot from a kitchen fire responds differently than the heavy carbon soot from a structural fire. Ductwork is cleaned and sealed or replaced, depending on contamination levels.
 
 **5. Odor neutralization**
-Removing visible soot doesn't remove the smell. Smoke odor is embedded in porous materials at a molecular level. Restoration professionals use a combination of thermal fogging, hydroxyl generators, or ozone treatment depending on the materials present and the severity of the odor. Painting over smoke-stained walls without odor treatment is a common DIY mistake, the smell bleeds through within weeks.
+Removing visible soot doesn't remove the smell. [Smoke odor](/services/odor-removal/) is embedded in porous materials at a molecular level. Restoration professionals use a combination of thermal fogging, hydroxyl generators, or ozone treatment depending on the materials present and the severity of the odor. Painting over smoke-stained walls without odor treatment is a common DIY mistake, the smell bleeds through within weeks.
 
 **6. Structural repairs and reconstruction**
-Once the structure is clean, dry, and odor-free, rebuilding begins. This ranges from replacing drywall and insulation to full framing repairs, depending on the fire's intensity and location. Reconstruction is coordinated with your insurance adjuster and any required permits through the local building department.
+Once the structure is clean, dry, and odor-free, rebuilding begins. This ranges from replacing drywall and insulation to full framing repairs, depending on the fire's intensity and location. [Reconstruction](/services/reconstruction/) is coordinated with your insurance adjuster and any required permits through the local building department.
 
 ## What Not to Do After a Fire
 
@@ -68,7 +68,7 @@ If the fire was contained to a small area, a stovetop flare-up with minimal smok
 
 Time is the critical variable. Smoke residue becomes harder to remove the longer it sits. Soot that's been on a painted wall for 72 hours requires significantly more aggressive treatment than soot that's been there for 24. Water left standing for more than 48 hours shifts the job from fire restoration to fire-and-mold restoration.
 
-If you're in the Youngstown area and you're not sure whether your situation warrants a call, err on the side of having a professional assess it. A walkthrough costs nothing; letting smoke damage set for a week costs considerably more to reverse.
+If you're in the Youngstown area and you're not sure whether your situation warrants a call, err on the side of having a professional assess it. A walkthrough costs nothing; letting [smoke damage](/services/smoke-damage-restoration/) set for a week costs considerably more to reverse.
 
 ## The Insurance Process and What to Expect
 

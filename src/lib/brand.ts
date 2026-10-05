@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.7",
-  gbpReviewCount: "69",
+  gbpReviewCount: "71",
   gbpReviews: [
+    { author: "Cj", rating: 5, text: "Great company to work with! Extremely professional and great communication. Would highly recommend!", when: "October 2026" },
+    { author: "Joseph", rating: 5, text: "My neighbor had a really bad garage fire last year; so bad it took out a bit of my shed. The insurance company sent sent these folks out. They were prompt and thorough; salvaged what they could and cleaned it up, and a comprehensive list of lost items. They got the new shed up quickly and all of my…", when: "October 2026" },
     { author: "Jeffrey", rating: 5, text: "DISS was on site within 1 hour of calling them. Within 4 days they had the carpet ripped out of my flooded basement and had the basement completely dried and restored. They did a fantastic job. I highly recommend them.", when: "October 2026" },
     { author: "James", rating: 5, text: "Alex was excellent! Overall, the food was its usual great taste! Everything was fresh! The orange juice was as advertised and tasted fresh squeezed! My four eggs were cooked sunny side up to perfection! The breakfast potatoes had a wonderful spice! Everyone at our table thoroughly enjoyed their…", when: "October 2026" },
     { author: "Rob", rating: 5, text: "Unfortunately, I have had to contact DISS for service, which means I had a relative disaster that needed assistance. Fortunately, DISS is a fantastic company and goes the extra mile to ensure the job is done the right way. Can’t say enough about their services!", when: "October 2026" },
     { author: "Trucrime", rating: 5, text: "DISS is a class act! They are knowledgeable, keep me informed, and are very, very kind and empathetic. So far, I would not change to another contractor. I had a different one in mind, but I quickly learned that they were not at all dependable. DISS is. I might add that my spirit was down, and my…", when: "October 2026" },
-    { author: "Scott", rating: 5, text: "DISS assisted me with my home insurance claim for storm damage, inventory, dry-out, mold remediation, and asbestos remediation so far. They still need to do the restoration work. So far, so good! They've been very helpful and have kept me informed of the progress along the way.", when: "October 2026" },
-    { author: "Debbie", rating: 5, text: "This restoration company was able to take our weather related water intrusion job from start to finish within a very reasonable timeframe. The people we worked with communicated their next steps and asked questions when needed. The construction manager was always super quick to respond to my…", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Farrell, PA.",
   ctaLabel: "24/7 Emergency Line",

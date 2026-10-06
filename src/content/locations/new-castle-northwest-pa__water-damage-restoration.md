@@ -1,0 +1,24 @@
+---
+archetype: "service-area-service"
+title: "Emergency Water Damage Restoration in New Castle Northwest | DISS Restoration"
+h1: "24/7 Emergency Water Damage Restoration in New Castle Northwest"
+meta_description: "24/7 emergency water damage restoration in New Castle Northwest, PA. IICRC-certified, insurance billing accepted. Call (724) 981-1441."
+primary_keyword: "water damage restoration new castle northwest"
+secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
+search_intent: "local_emergency"
+priority: 7.0
+plan_hash: "cacf4f8ce614371e"
+generated_at: "2026-10-06T14:20:24.973193+00:00"
+manual_override: false
+internal_links: ["/services/water-damage-restoration/", "/service-areas/new-castle-northwest-pa/", "/service-areas/austintown-oh/water-damage-restoration/", "/service-areas/bessemer-pa/water-damage-restoration/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "New Castle Northwest", "url": "/service-areas/new-castle-northwest-pa/"}, {"name": "Water Damage Restoration"}]
+faq: []
+area_slug: "new-castle-northwest-pa"
+service_slug: "water-damage-restoration"
+city: "New Castle Northwest"
+state: "PA"
+service_display: "Water Damage Restoration"
+---
+<!-- Page body not yet generated. Run `build_site.py render --slug diss-restoration` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
+
+Placeholder content for 24/7 Emergency Water Damage Restoration in New Castle Northwest.

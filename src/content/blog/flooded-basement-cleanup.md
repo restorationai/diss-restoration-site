@@ -25,7 +25,7 @@ You came home to a wet carpet squishing underfoot, or you walked downstairs and 
 
 ## What kind of water is in your basement?
 
-The water category determines the cleanup method, the health risk, and what your insurance will pay. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three categories:
+The water category determines the cleanup method, the health risk, and what your insurance will pay. The [IICRC S500 standard](https://iicrc.org/s500/) defines three categories:
 
 **Category 1 (clean water)** comes from a broken supply line, a failed water heater, or a leaking appliance inlet hose. It poses no immediate health risk. You can safely wade in with rubber boots, and porous materials like carpet may be salvageable if dried within 24 to 48 hours.
 
@@ -72,7 +72,7 @@ Most residential basement water damage dries in 3 to 5 days with commercial dryi
 
 **Day 1: Extraction and assessment.** A crew extracts standing water with a truck-mounted or portable extractor. A technician takes moisture readings with a calibrated meter at the walls, floor, and subfloor to map the wet zone. If the basement is finished, some drywall may be removed at the waterline (called flood cuts) to allow air circulation behind the wall cavity.
 
-**Days 1-3: Drying setup.** Commercial LGR (low-grain refrigerant) dehumidifiers and high-velocity air movers are placed based on the drying plan. The [EPA recommends](https://www.epa.gov/mold/what-do-after-flood) keeping indoor humidity below 60 percent during drying to prevent mold growth. Commercial dehumidifiers pull far more moisture per day than a consumer unit from a hardware store.
+**Days 1-3: Drying setup.** Commercial LGR (low-grain refrigerant) dehumidifiers and high-velocity air movers are placed based on the drying plan. The [EPA recommends](https://www.epa.gov/flooded-homes) keeping indoor humidity below 60 percent during drying to prevent mold growth. Commercial dehumidifiers pull far more moisture per day than a consumer unit from a hardware store.
 
 **Days 2-5: Monitoring.** A technician returns each day to log moisture readings and adjust equipment placement. Drying is complete when readings return to normal dry standard (typically below 16 percent moisture content in wood, per IICRC S500 guidelines). Equipment is removed only when the structure is confirmed dry, not when it feels dry to the touch.
 

@@ -70,7 +70,7 @@ For a detailed breakdown specific to basement flooding, see our post on [flooded
 
 Several factors move the final number significantly in either direction.
 
-**Response time** is the biggest lever you control. Mitigation started within 4 hours of a loss typically costs 30-50% less than the same job started 48 hours later, because secondary damage (swollen framing, delaminated subfloor, mold colonization) hasn't had time to compound. The [IICRC S500](https://www.iicrc.org/page/IICRCS500) standard recommends beginning drying within 24-48 hours to prevent mold growth.
+**Response time** is the biggest lever you control. Mitigation started within 4 hours of a loss typically costs 30-50% less than the same job started 48 hours later, because secondary damage (swollen framing, delaminated subfloor, mold colonization) hasn't had time to compound. The [IICRC S500](https://iicrc.org/s500/) standard recommends beginning drying within 24-48 hours to prevent mold growth.
 
 **Materials affected** matter because not all wet materials are equal. Concrete block basement walls dry in place. Fiberglass insulation must be removed and replaced. Hardwood floors may be salvageable with aggressive drying or may require full replacement. Cabinets with particleboard cores almost always need to go. A restoration firm with IICRC ASD (Applied Structural Drying) certification knows how to make these calls correctly, which saves you money on unnecessary tear-out and protects you from inadequate drying that leads to mold.
 

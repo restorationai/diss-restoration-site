@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.6",
-  gbpReviewCount: "79",
+  gbpReviewCount: "84",
   gbpReviews: [
+    { author: "Kim", rating: 5, text: "They were very thorough, professional and kind. I highly recommend!", when: "October 2026" },
+    { author: "Michael", rating: 5, text: "Excellent communication and professionalism all-around. High-quality and very fast completion of the job", when: "October 2026" },
+    { author: "Bobby", rating: 5, text: "Very professional, prompt, hardworking, and honest people!", when: "October 2026" },
     { author: "Susan", rating: 5, text: "Very easy to work with. Peasant and polite employees.", when: "October 2026" },
     { author: "Ron", rating: 5, text: "First class customer service. The work was done in a timely fashion and to our satisfaction. The workers were polite and helpful.", when: "October 2026" },
     { author: "Cj", rating: 5, text: "Great company to work with! Extremely professional and great communication. Would highly recommend!", when: "October 2026" },
-    { author: "Joseph", rating: 5, text: "My neighbor had a really bad garage fire last year; so bad it took out a bit of my shed. The insurance company sent sent these folks out. They were prompt and thorough; salvaged what they could and cleaned it up, and a comprehensive list of lost items. They got the new shed up quickly and all of my…", when: "October 2026" },
-    { author: "Jeffrey", rating: 5, text: "DISS was on site within 1 hour of calling them. Within 4 days they had the carpet ripped out of my flooded basement and had the basement completely dried and restored. They did a fantastic job. I highly recommend them.", when: "October 2026" },
-    { author: "James", rating: 5, text: "Alex was excellent! Overall, the food was its usual great taste! Everything was fresh! The orange juice was as advertised and tasted fresh squeezed! My four eggs were cooked sunny side up to perfection! The breakfast potatoes had a wonderful spice! Everyone at our table thoroughly enjoyed their…", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Farrell, PA.",
   ctaLabel: "24/7 Emergency Line",

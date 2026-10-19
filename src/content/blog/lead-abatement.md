@@ -58,7 +58,7 @@ If you're just replacing windows or doing a kitchen remodel in a pre-1978 house 
 
 ## Who Should You Call for Lead Abatement Work?
 
-You need a firm that holds EPA Lead-Safe Certified Firm status and can document it, not just a general contractor willing to take the job. DISS Restoration holds that certification and handles the containment, demolition, and cleanup side of abatement and lead-safe renovation work for homes across Niles and the surrounding Mahoning and Shenango Valley communities. [Call DISS Restoration at (724) 981-1441](tel:+17249811441) to schedule a lead hazard assessment before you open any walls, strip paint, or start demolition.
+You need a firm that holds EPA Lead-Safe Certified Firm status and can document it, not just a general contractor willing to take the job. DISS Restoration holds that certification and handles the containment, demolition, and cleanup side of [lead paint abatement](/services/lead-paint-abatement/) and lead-safe renovation work for homes across Niles and the surrounding Mahoning and Shenango Valley communities. [Call DISS Restoration at (724) 981-1441](tel:+17249811441) to schedule a lead hazard assessment before you open any walls, strip paint, or start demolition.
 
 Ask any firm you're considering for its EPA certification number and whether the quote includes third-party clearance testing. Abatement that skips independent clearance isn't abatement you can legally document as complete, which matters if you're selling the home or clearing it for a tenant with young children.
 
@@ -66,4 +66,4 @@ Ask any firm you're considering for its EPA certification number and whether the
 
 **About DISS Restoration**
 
-Founded in 2021, the company is EPA Lead-Safe Certified and holds additional IICRC credentials across water, fire, mold, and structural drying. It's licensed and insured and serves Youngstown, Niles, Warren, and surrounding communities in the Mahoning and Shenango Valleys. The company's work spans hazard containment, demolition, and reconstruction scopes, and it carries a 4.7 Google rating across 63 reviews from local customers.
+Founded in 2021, the company is EPA Lead-Safe Certified and holds additional IICRC credentials across water, fire, mold, and structural drying. It's licensed and insured and serves Youngstown, Niles, Warren, and surrounding communities in the Mahoning and Shenango Valleys. The company's work spans hazard containment, demolition, and reconstruction scopes.

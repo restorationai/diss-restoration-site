@@ -24,7 +24,7 @@ If a pipe just burst in your home, here is what to do right now: shut off the ma
 
 ## Understanding What You're Actually Dealing With
 
-A burst pipe is not a single event, it is the beginning of a timeline that works against you. Water spreads faster than most people expect. On a slab foundation, it follows the path of least resistance under flooring. In a two-story home, it travels down through subfloor, insulation, and ceiling drywall before you see a single drip on the floor below. In older Youngstown-area homes with plaster walls and wood lath, water can wick laterally for several feet before it becomes visible.
+A burst pipe is not a single event, it is the beginning of a timeline that works against you. Water spreads faster than most people expect. On a slab foundation, it follows the path of least resistance under flooring. In a two-story home, it travels down through subfloor, insulation, and [ceiling drywall](/services/ceiling-water-damage-repair/) before you see a single drip on the floor below. In older Youngstown-area homes with plaster walls and wood lath, water can wick laterally for several feet before it becomes visible.
 
 The other factor working against you is time. Mold can begin colonizing wet organic material, drywall paper, wood framing, carpet backing, within 24 to 48 hours under the right temperature and humidity conditions. That is not a scare tactic; it is the reason the response window matters.
 

@@ -68,7 +68,7 @@ export const brand = {
   sameAsUrls: ["https://www.facebook.com/DISSRestoration", "https://www.instagram.com/dissrestoration", "https://www.linkedin.com/company/diss-restoration", "https://maps.google.com/maps?cid=3976360707548162480", "https://www.yelp.com/biz/diss-restoration-farrell-3", "https://www.yellowpages.com/farrell-pa/mip/diss-restoration-24-7-emergency-flood-water-damage-and-mold-remediation-567601634"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "4.6",
+  gbpRatingValue: "4.7",
   gbpReviewCount: "92",
   gbpReviews: [
     { author: "Sandy", rating: 5, text: "Excellent work, very pleased with their work and efficiency.", when: "October 2026" },

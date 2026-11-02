@@ -26,7 +26,7 @@ If your basement floor drain just backed up, or a toilet overflowed and the wate
 
 ## What Does Sewage Damage Restoration Actually Involve?
 
-Sewage damage restoration means extracting contaminated water, removing materials that can't be disinfected, applying antimicrobial treatment, and drying the structure to the [ANSI/IICRC S500 standard](https://iicrc.org/s500/), a process that typically takes 3 to 7 days depending on how far the water traveled and what it touched.
+Sewage damage restoration means extracting contaminated water, removing materials that can't be disinfected, applying antimicrobial treatment, and drying the structure to the [ANSI/IICRC S500 standard](https://iicrc.org/s500/), a process that typically takes 3 to 7 days depending on how far the water traveled and what it touched. Our [sewage damage cleanup](/services/sewage-cleanup/) service covers each of these steps.
 
 The work usually runs in this order: contaminated water gets extracted first, using equipment dedicated to Category 3 losses and never mixed with clean-water jobs. Porous materials that absorbed sewage, carpet, carpet pad, drywall up to the waterline, baseboards and often subflooring, get removed and discarded rather than dried in place, because they can't be fully disinfected. Non-porous surfaces like concrete, tile and sealed wood get cleaned and treated with an EPA-registered antimicrobial. Air movers and dehumidifiers then run until moisture readings in the studs and subfloor return to normal, which a technician checks with a moisture meter rather than guessing by feel or smell.
 

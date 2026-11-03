@@ -123,7 +123,7 @@ For a broader look at what to look for when hiring any restoration company, see 
 
 If you are dealing with an active water loss, the first 24 hours are the most important window. Stop the source of water if you can safely do so. Move valuables and electronics out of the affected area. Do not use a household vacuum or fan to dry the space. Fans without dehumidification push moisture into walls and floors and make the drying job harder.
 
-Then call a certified restoration company. For [water damage restoration in Youngstown, OH](/service-areas/youngstown-oh/water-damage-restoration/) and the surrounding Mahoning County area, DISS Restoration is available 24/7 at **(724) 981-1441**. Their technicians will assess the moisture readings, classify the water loss (Category 1 clean water, Category 2 gray water, or Category 3 black water), and set up a drying system sized for your actual loss, not a one-size-fits-all setup.
+Then call a certified restoration company. For [water damage restoration in Youngstown, OH](/services/water-damage-restoration/) and the surrounding Mahoning County area, DISS Restoration is available 24/7 at **(724) 981-1441**. Their technicians will assess the moisture readings, classify the water loss (Category 1 clean water, Category 2 gray water, or Category 3 black water), and set up a drying system sized for your actual loss, not a one-size-fits-all setup.
 
 If the loss involved a burst pipe, our step-by-step guide covers the immediate actions to take: [Burst Pipe Emergency Checklist: Step-by-Step Response](/blog/burst-pipe-emergency-checklist/).
 

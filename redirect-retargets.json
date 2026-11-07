@@ -1,0 +1,242 @@
+{
+ "/service-areas/campbell-oh/contents-restoration-storage": {
+  "planned": "/service-areas/campbell-oh/contents-restoration/",
+  "now": "/service-areas/campbell-oh/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/farrell-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/farrell-pa/air-duct-cleaning/",
+  "now": "/service-areas/farrell-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/farrell-pa/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/farrell-pa/carpet-cleaning/",
+  "now": "/service-areas/farrell-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/farrell-pa/contents-restoration-storage": {
+  "planned": "/service-areas/farrell-pa/contents-restoration/",
+  "now": "/service-areas/farrell-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/farrell-pa/water-cleanup": {
+  "planned": "/service-areas/farrell-pa/emergency-water-removal/",
+  "now": "/service-areas/farrell-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/greenville-pa/contents-restoration-storage": {
+  "planned": "/service-areas/greenville-pa/contents-restoration/",
+  "now": "/service-areas/greenville-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/greenville-pa/water-cleanup": {
+  "planned": "/service-areas/greenville-pa/emergency-water-removal/",
+  "now": "/service-areas/greenville-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/grove-city-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/grove-city-pa/air-duct-cleaning/",
+  "now": "/service-areas/grove-city-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/grove-city-pa/contents-restoration-storage": {
+  "planned": "/service-areas/grove-city-pa/contents-restoration/",
+  "now": "/service-areas/grove-city-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/grove-city-pa/water-cleanup": {
+  "planned": "/service-areas/grove-city-pa/emergency-water-removal/",
+  "now": "/service-areas/grove-city-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hermitage-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/hermitage-pa/air-duct-cleaning/",
+  "now": "/service-areas/hermitage-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hermitage-pa/contents-restoration-storage": {
+  "planned": "/service-areas/hermitage-pa/contents-restoration/",
+  "now": "/service-areas/hermitage-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hermitage-pa/water-cleanup": {
+  "planned": "/service-areas/hermitage-pa/emergency-water-removal/",
+  "now": "/service-areas/hermitage-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mercer-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/mercer-pa/air-duct-cleaning/",
+  "now": "/service-areas/mercer-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mercer-pa/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/mercer-pa/carpet-cleaning/",
+  "now": "/service-areas/mercer-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mercer-pa/contents-restoration-storage": {
+  "planned": "/service-areas/mercer-pa/contents-restoration/",
+  "now": "/service-areas/mercer-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mercer-pa/water-cleanup": {
+  "planned": "/service-areas/mercer-pa/emergency-water-removal/",
+  "now": "/service-areas/mercer-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mineral-ridge-oh/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/mineral-ridge-oh/air-duct-cleaning/",
+  "now": "/service-areas/mineral-ridge-oh/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mineral-ridge-oh/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/mineral-ridge-oh/carpet-cleaning/",
+  "now": "/service-areas/mineral-ridge-oh/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mineral-ridge-oh/contents-restoration-storage": {
+  "planned": "/service-areas/mineral-ridge-oh/contents-restoration/",
+  "now": "/service-areas/mineral-ridge-oh/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mineral-ridge-oh/water-cleanup": {
+  "planned": "/service-areas/mineral-ridge-oh/emergency-water-removal/",
+  "now": "/service-areas/mineral-ridge-oh/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/new-castle-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/new-castle-pa/air-duct-cleaning/",
+  "now": "/service-areas/new-castle-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/new-castle-pa/contents-restoration-storage": {
+  "planned": "/service-areas/new-castle-pa/contents-restoration/",
+  "now": "/service-areas/new-castle-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/new-castle-pa/water-cleanup": {
+  "planned": "/service-areas/new-castle-pa/emergency-water-removal/",
+  "now": "/service-areas/new-castle-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharon-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/sharon-pa/air-duct-cleaning/",
+  "now": "/service-areas/sharon-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharon-pa/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/sharon-pa/carpet-cleaning/",
+  "now": "/service-areas/sharon-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharon-pa/contents-restoration-storage": {
+  "planned": "/service-areas/sharon-pa/contents-restoration/",
+  "now": "/service-areas/sharon-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharon-pa/water-cleanup": {
+  "planned": "/service-areas/sharon-pa/emergency-water-removal/",
+  "now": "/service-areas/sharon-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharpsville-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/sharpsville-pa/air-duct-cleaning/",
+  "now": "/service-areas/sharpsville-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharpsville-pa/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/sharpsville-pa/carpet-cleaning/",
+  "now": "/service-areas/sharpsville-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharpsville-pa/contents-restoration-storage": {
+  "planned": "/service-areas/sharpsville-pa/contents-restoration/",
+  "now": "/service-areas/sharpsville-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sharpsville-pa/water-cleanup": {
+  "planned": "/service-areas/sharpsville-pa/emergency-water-removal/",
+  "now": "/service-areas/sharpsville-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/west-middlesex-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/west-middlesex-pa/air-duct-cleaning/",
+  "now": "/service-areas/west-middlesex-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/west-middlesex-pa/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/west-middlesex-pa/carpet-cleaning/",
+  "now": "/service-areas/west-middlesex-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/west-middlesex-pa/contents-restoration-storage": {
+  "planned": "/service-areas/west-middlesex-pa/contents-restoration/",
+  "now": "/service-areas/west-middlesex-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/west-middlesex-pa/water-cleanup": {
+  "planned": "/service-areas/west-middlesex-pa/emergency-water-removal/",
+  "now": "/service-areas/west-middlesex-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wheatland-pa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/wheatland-pa/air-duct-cleaning/",
+  "now": "/service-areas/wheatland-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wheatland-pa/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/wheatland-pa/carpet-cleaning/",
+  "now": "/service-areas/wheatland-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wheatland-pa/contents-restoration-storage": {
+  "planned": "/service-areas/wheatland-pa/contents-restoration/",
+  "now": "/service-areas/wheatland-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wheatland-pa/water-cleanup": {
+  "planned": "/service-areas/wheatland-pa/emergency-water-removal/",
+  "now": "/service-areas/wheatland-pa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}

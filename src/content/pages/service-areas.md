@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | DISS Restoration Restoration"
+title: "Service Areas | DISS Restoration"
 h1: "Areas We Serve"
 meta_description: "DISS Restoration provides 24/7 restoration services across Youngstown and the surrounding region. Find your city."
 primary_keyword: "diss restoration service areas"

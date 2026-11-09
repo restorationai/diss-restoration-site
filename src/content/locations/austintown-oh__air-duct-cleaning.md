@@ -1,8 +1,8 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Austintown, OH | DISS Restoration"
+title: "Air Duct & Dryer Vent Cleaning in Austintown, OH | DISS Restoration"
 h1: "Air Duct Cleaning in Austintown"
-meta_description: "24/7 air duct cleaning in Austintown, OH. IICRC-certified, insurance billing accepted. Call (724) 981-1441."
+meta_description: "Austintown air duct cleaning that starts with a camera check, then negative-pressure extraction, with dryer vent cleaning in the same visit. Call (724) 981-1441."
 primary_keyword: "air duct cleaning austintown"
 secondary_keywords: ["duct cleaning", "HVAC duct cleaning", "air duct sanitization", "dryer vent cleaning", "residential duct cleaning"]
 search_intent: "local_specialty"

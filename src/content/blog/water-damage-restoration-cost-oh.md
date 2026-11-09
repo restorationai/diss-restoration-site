@@ -1,8 +1,8 @@
 ---
 archetype: "blog-post"
-title: "How Much Does Water Damage Restoration Cost in OH? (2026)"
+title: "Water Damage Restoration Cost in Ohio: 2026 Price Ranges"
 h1: "How Much Does Water Damage Restoration Cost in OH? (2026)"
-meta_description: "Water damage restoration in Ohio typically costs $1,500 to $12,000 depending on the size, water category, and materials affected. See real cost ranges, what insurance covers, and what to expect from the restoration process."
+meta_description: "Ohio water damage restoration usually runs $1,500 to $12,000. See costs by room count and water type (clean, gray, sewage), and what insurance usually covers."
 primary_keyword: "water damage restoration cost OH"
 secondary_keywords: ["how much does water damage restoration cost in OH", "water damage restoration price OH", "average cost of water damage restoration OH", "water damage cleanup OH", "water cleanup OH", "water removal OH"]
 search_intent: "transactional"

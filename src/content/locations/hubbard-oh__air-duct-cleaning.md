@@ -1,8 +1,8 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Hubbard, OH | DISS Restoration"
+title: "Air Duct & Dryer Vent Cleaning in Hubbard, OH | DISS Restoration"
 h1: "Air Duct Cleaning in Hubbard"
-meta_description: "24/7 air duct cleaning in Hubbard, OH. IICRC-certified, insurance billing accepted. Call (724) 981-1441."
+meta_description: "Hubbard air duct cleaning with negative-pressure extraction so dust stays out of your rooms, plus dryer vent cleaning in the same visit. Call (724) 981-1441."
 primary_keyword: "air duct cleaning hubbard"
 secondary_keywords: ["duct cleaning", "HVAC duct cleaning", "air duct sanitization", "dryer vent cleaning", "residential duct cleaning"]
 search_intent: "local_specialty"

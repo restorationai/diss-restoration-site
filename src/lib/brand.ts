@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.7",
-  gbpReviewCount: "98",
+  gbpReviewCount: "99",
   gbpReviews: [
+    { author: "Denise", rating: 5, text: "Very professional and kept me fully informed of the entire process.", when: "November 2026" },
     { author: "Ladawn", rating: 5, text: "The guys were so friendly and on point!", when: "November 2026" },
     { author: "Gina", rating: 5, text: "Incredible service. Amazing people. Easy to work with. Recommend", when: "October 2026" },
     { author: "Ed", rating: 5, text: "Very professional team, worked very efficiently and effectively", when: "October 2026" },
     { author: "Sandy", rating: 5, text: "Excellent work, very pleased with their work and efficiency.", when: "October 2026" },
     { author: "Susan", rating: 5, text: "DISS did a great job of attending to the results of a gutter problem. They were very careful and protected my floors and baby grand extremely well. Theyvresponded very quickly.", when: "October 2026" },
-    { author: "Matthew", rating: 5, text: "All interactions involving my missing roof shingles repair went smoothly. There were questions beforehand and afterwards regarding preparations and completion. I was treated with care by competent people.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Farrell, PA.",
   ctaLabel: "24/7 Emergency Line",

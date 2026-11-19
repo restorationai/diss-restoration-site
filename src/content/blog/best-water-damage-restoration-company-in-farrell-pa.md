@@ -64,7 +64,7 @@ Their review count is smaller than Disaster Recovery Services' but larger than S
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| DISS Restoration | 4.7 | 99 | Yes | Yes |
+| DISS Restoration | 4.6 | 100 | Yes | Yes |
 | ServiceMaster Emergency Experts by Gault | 4.6 | 14 | Not listed | Not listed |
 | Advanced Insurance | 3.6 | 7 | Not listed | Not listed |
 | Disaster Recovery Services, LTD | 4.9 | 122 | Not listed | Not listed |

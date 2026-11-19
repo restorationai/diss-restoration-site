@@ -111,7 +111,7 @@ For a broader look at what to look for when hiring any restoration company, see 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| DISS Restoration | 4.7 | 99 | Yes | Yes (WRT, ASD, AMRT) |
+| DISS Restoration | 4.6 | 100 | Yes | Yes (WRT, ASD, AMRT) |
 | Paul Davis of Eastern Ohio | 4.8 | 75 | Not listed | Not listed |
 | SERVPRO of Mahoning and North Columbiana Counties | 4.6 | 111 | Not listed | Not listed |
 | National Fire & Water Repair | 4.4 | 76 | Not listed | Not listed |

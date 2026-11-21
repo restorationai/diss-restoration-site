@@ -36,6 +36,11 @@ export const brand = {
   foundedYear: "2021",
   primaryCity: "Farrell",
   primaryState: "PA",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Farrell, PA & the Shenango Valley",
+  serviceRegionDetail: "Sharon, Hermitage, Mercer County and the Youngstown, OH area",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and sometimes diverge (DISS was Farrell PA office,

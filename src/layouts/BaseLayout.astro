@@ -9,6 +9,7 @@ import Schema from "~/components/Schema.astro";
 import Breadcrumb from "~/components/Breadcrumb.astro";
 import { Phone } from "@lucide/astro";
 import type { PageSchemaContext } from "~/lib/schema";
+import { areaPlace, serviceRegion } from "~/lib/region";
 
 type Props = {
   title: string;
@@ -162,9 +163,14 @@ const ctx: PageSchemaContext = {
   </head>
   <body class="min-h-screen flex flex-col">
     <div class="hidden md:block bg-primary-600 text-white text-xs md:text-sm font-bold text-center py-2 px-4 tracking-wider">
-      {isLicensed
-        ? <>Licensed &amp; Insured &middot; {brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase}</>
-        : <>{brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase} &middot; {brand.announcementSuffix}</>}
+      {/* SERVICE REGION (Santino 11-20, DISS preview): "{home} & {region}" does
+          not read as a prefix ("Farrell, PA & the Shenango Valley Damage
+          Restoration Specialists"), so a region reads "Serving {region}". */}
+      {serviceRegion
+        ? <>{isLicensed ? <>Licensed &amp; Insured &middot; </> : null}Serving {serviceRegion} &middot; {brand.announcementSuffix}</>
+        : isLicensed
+        ? <>Licensed &amp; Insured &middot; {areaPlace}{" "}{brand.specialistPhrase}</>
+        : <>{areaPlace}{" "}{brand.specialistPhrase} &middot; {brand.announcementSuffix}</>}
     </div>
     <Header />
     <Breadcrumb trail={breadcrumb} />

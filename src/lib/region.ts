@@ -50,3 +50,20 @@ export const officeLabel = multiMarket ? "Main office" : "Office";
 export const regionHeadline = (text: string) => regionHeadlineFor(text, city, state, serviceRegion);
 /** meta "... in Carlsbad and surrounding areas." -> "... across Southern California." */
 export const regionSentence = (text: string) => regionSentenceFor(text, city, state, serviceRegion);
+
+/** MULTI-OFFICE (Santino 2026-11-21, Legacy / Dry 1 Out): an office's own
+ *  page and the city pages it serves name THAT office's local region
+ *  ("Tampa Bay"), not the site-wide market list. The office's region comes
+ *  from the offices collection (plan-input brand.office_regions, written by
+ *  office_pages.py); brand.mainOfficeRegion covers the main office's city
+ *  pages. Pages set Astro.locals.servingOffice / pageRegion; every other page
+ *  (homepage, /services/, /emergency/) keeps areaPlace. Empty = unchanged. */
+export const mainOfficeRegion = str(B.mainOfficeRegion);
+export function pageRegion(locals: unknown): string {
+  const L = (locals || {}) as { servingOffice?: { region?: string | null } | null; pageRegion?: string };
+  return str(L.servingOffice?.region) || str(L.pageRegion);
+}
+/** areaPlace, or this page's office region when it has one. */
+export const pageAreaPlace = (locals: unknown) => pageRegion(locals) || areaPlace;
+/** serviceRegion, or this page's office region when it has one. */
+export const pageServiceRegion = (locals: unknown) => pageRegion(locals) || serviceRegion;

@@ -10,7 +10,7 @@ import Schema from "~/components/Schema.astro";
 import Breadcrumb from "~/components/Breadcrumb.astro";
 import { Phone } from "@lucide/astro";
 import type { PageSchemaContext } from "~/lib/schema";
-import { areaPlace, serviceRegion } from "~/lib/region";
+import { serviceRegion, areaPlace, pageServiceRegion } from "~/lib/region";
 
 type Props = {
   title: string;
@@ -170,8 +170,8 @@ const ctx: PageSchemaContext = {
       {serviceRegion
         ? <>{isLicensed ? <>Licensed &amp; Insured &middot; </> : null}Serving {serviceRegion} &middot; {brand.announcementSuffix}</>
         : isLicensed
-        ? <>Licensed &amp; Insured &middot; {areaPlace}{" "}{brand.specialistPhrase}</>
-        : <>{areaPlace}{" "}{brand.specialistPhrase} &middot; {brand.announcementSuffix}</>}
+        ? <>Licensed &amp; Insured &middot; {pageServiceRegion(Astro.locals) ? <>Serving {pageServiceRegion(Astro.locals)} &middot;</> : areaPlace}{" "}{brand.specialistPhrase}</>
+        : <>{pageServiceRegion(Astro.locals) ? <>Serving {pageServiceRegion(Astro.locals)} &middot;</> : areaPlace}{" "}{brand.specialistPhrase} &middot; {brand.announcementSuffix}</>}
     </div>
     <Header />
     <Breadcrumb trail={breadcrumb} />

@@ -1,20 +1,29 @@
 ---
 import { brand } from "~/lib/brand";
 const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(brand.hours || ""));
+// NAME BESIDE THE LOGO (Santino 2026-11-20, DISS): the business name is real
+// text in the header (not a gray line above the nav), so Google's crawl reads
+// the renamed profile's name where people see it. The registered name's
+// descriptor ("24/7 Emergency Flood, ...") sits under it on wide screens.
+const registered = String(brand.dbaName || "").trim();
+const descriptor = registered.toLowerCase().startsWith(String(brand.displayName).toLowerCase())
+  ? registered.slice(String(brand.displayName).length).replace(/^\s*[-\u2013\u2014:,]\s*/, "").trim()
+  : "";
 ---
 
 <header class="bg-white text-dark-900 sticky top-0 z-50 border-b border-dark/10 shadow-md">
-  {brand.dbaName && (
-    <p data-rankai="name-line" class="container-wide pt-1.5 -mb-1 text-center text-[11px] sm:text-xs font-semibold leading-snug opacity-80">{brand.dbaName}</p>
-  )}
   <div class="container-wide flex items-center justify-between gap-3 sm:gap-6 h-20">
-    <a href="/" class="flex items-center gap-3 no-underline text-dark-900 group min-w-0">
+    <a href="/" class="flex items-center gap-2 sm:gap-3 no-underline text-dark-900 group min-w-0 lg:flex-shrink-0">
       {brand.logoUrl && (
-        <img src={brand.logoUrl} alt={`${brand.displayName} logo`} class="h-14 md:h-16 max-h-full w-auto max-w-[55vw] sm:max-w-none object-contain object-left group-hover:scale-105 transition-transform" width="64" height="64" loading="eager" />
+        <img src={brand.logoUrl} alt={`${brand.displayName} logo`} class="h-12 sm:h-14 md:h-16 max-h-full w-auto max-w-[30vw] sm:max-w-none object-contain object-left group-hover:scale-105 transition-transform flex-shrink-0" width="64" height="64" loading="eager" />
       )}
+      <span class="flex flex-col min-w-0 leading-tight">
+        <span class="font-black uppercase tracking-normal sm:tracking-wide text-[12px] sm:text-lg lg:text-base 2xl:text-xl w-min sm:w-auto sm:whitespace-nowrap">{brand.displayName}</span>
+        {descriptor && <span data-rankai="name-descriptor" class="hidden md:block lg:hidden 2xl:block text-[11px] font-semibold text-dark-900/70 max-w-[22rem] leading-snug">{descriptor}</span>}
+      </span>
     </a>
 
-    <nav class="hidden lg:flex items-center gap-6 text-[11px] font-black uppercase tracking-widest h-full">
+    <nav class="hidden lg:flex items-center gap-4 2xl:gap-6 text-[11px] font-black uppercase tracking-wider 2xl:tracking-widest h-full whitespace-nowrap">
       <a href="/emergency/" class="text-dark-900 underline decoration-[3px] underline-offset-8 hover:text-primary-500 transition-colors py-8">Emergency</a>
       <a href="/services/" class="hover:text-primary-400 no-underline transition-colors py-8">Services</a>
       <a href="/service-areas/" class="hover:text-primary-400 no-underline transition-colors py-8">Areas</a>
@@ -25,9 +34,9 @@ const is247 = /24\s*[\/x-]?\s*7|24 ?hours/i.test(String(brand.hours || ""));
     </nav>
 
     <div class="flex items-center gap-2 flex-shrink-0">
-      <a href={`tel:${brand.phoneRaw}`} class={`${(brand as {hideMobileHeaderCall?: boolean}).hideMobileHeaderCall ? "hidden sm:block " : ""}btn-primary text-sm md:text-base px-4 sm:px-6 py-3 md:py-4 shadow-primary-900/40 text-center leading-tight font-black`}>
-        <span class="hidden sm:block tracking-wide whitespace-nowrap">Call Us Now <span aria-hidden="true">•</span> {brand.phone}</span>
-        <span class="sm:hidden flex flex-col items-center gap-0.5">
+      <a href={`tel:${brand.phoneRaw}`} class={`${(brand as {hideMobileHeaderCall?: boolean}).hideMobileHeaderCall ? "hidden sm:block " : ""}btn-primary text-sm md:text-base px-3 sm:px-6 py-3 md:py-4 lg:py-2 xl:py-4 shadow-primary-900/40 text-center leading-tight font-black`}>
+        <span class="hidden sm:block lg:hidden xl:block tracking-wide whitespace-nowrap">Call Us Now <span aria-hidden="true">•</span> {brand.phone}</span>
+        <span class="sm:hidden lg:flex xl:hidden flex flex-col items-center gap-0.5">
           <span class="text-[11px] font-black tracking-[0.15em] opacity-90 uppercase">Call Us Now</span>
           <span class="font-black tracking-wide whitespace-nowrap">{brand.phone}</span>
         </span>

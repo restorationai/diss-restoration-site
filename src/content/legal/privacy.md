@@ -30,6 +30,12 @@ We do not sell, rent, or trade your personal information. The only time your inf
 
 If we are ever required to disclose information by law, for example, in response to a valid court order or regulatory requirement, we will comply with that obligation and, where legally permitted, notify you.
 
+## Text Messaging and Mobile Information
+
+If you give us your mobile number and agree to receive texts, DISS Restoration may text you about your service request or project: appointment scheduling and reminders, technician arrival times, job updates, follow-ups after the job, and a request to review our work. The information collected through text messaging (your mobile number, the messages you send us, and your text opt-in consent) is used only to communicate with you about your request or project, to send the messages you agreed to receive, and to honor opt-out requests. Message frequency varies. Msg & data rates may apply. Reply STOP at any time to stop receiving texts, or HELP for help, or call us at (724) 981-1441. Consent to receive texts is not a condition of any purchase. Full texting terms are in our [Terms of Service](/terms/).
+
+**Mobile information is never shared or sold.** No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent are excluded from every category of sharing described in this policy and will not be shared with or sold to any third parties.
+
 ## Data Retention
 
 We retain contact and project records for as long as reasonably necessary to fulfill the service relationship, support any warranty or follow-up work, and meet applicable recordkeeping obligations under Ohio contractor regulations. If you would like your information removed from our records and there is no outstanding legal or contractual reason to retain it, contact us and we will honor that request.

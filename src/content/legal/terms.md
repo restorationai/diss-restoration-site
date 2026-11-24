@@ -76,6 +76,21 @@ DISS Restoration operates as a licensed contractor under applicable Ohio state r
 
 If a concern arises about work performed, please contact us directly at info@dissrestoration.com or (724) 981-1441 so we have the opportunity to address it. If a dispute cannot be resolved informally, it will be handled in accordance with Ohio law and the terms of the signed work-authorization agreement.
 
+### SMS / Text Messaging Terms
+
+DISS Restoration runs a customer care text program for customers who contact us about our services. We send and receive text messages from our business texting line. By giving us your mobile number and agreeing to receive texts (for example, by texting us first, or by telling us on a call, on our contact or estimate form, or in writing that we may text you), you agree to these terms.
+
+- **Program:** DISS Restoration customer care texts, sent from and received on our business texting line. You can text us questions and we will reply by text.
+- **How you opt in:** you opt in when you give us your mobile number and agree to receive texts from us. We only text numbers that have agreed to receive them.
+- **What we send:** messages about your service request or project, such as appointment scheduling and reminders, technician arrival times, job updates, follow-ups after the job, and a request to review our work. We do not send marketing texts to anyone who has not separately opted in to them.
+- **Message frequency:** message frequency varies based on your request and project.
+- **Cost:** Msg & data rates may apply, according to your mobile carrier's plan.
+- **Opting out:** reply STOP to any message to stop receiving texts. You will receive one final message confirming you have been unsubscribed, and no further texts will be sent unless you opt in again.
+- **Help:** reply HELP to any message for help, or contact us at (724) 981-1441 or info@dissrestoration.com.
+- **Not a condition of purchase:** consent to receive text messages is not a condition of purchasing any goods or services from us.
+- **Carriers:** mobile carriers are not liable for delayed or undelivered messages.
+- **Privacy:** we never share or sell your mobile number or your text messaging opt-in data and consent with third parties or affiliates for their marketing or promotional purposes. See our [Privacy Policy](/privacy/) for details.
+
 ---
 
 ## Accessibility Statement
